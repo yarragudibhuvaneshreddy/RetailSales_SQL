@@ -11,7 +11,7 @@ This project demonstrates practical SQL skills required for entry-level Data Ana
 
 ## 🛠 Tools & Technologies Used
 
-- SQL (MS SQL / PostgreSQL / MySQL)
+- SQL (PostgreSQL)
 - GitHub
 - CSV Dataset
 
